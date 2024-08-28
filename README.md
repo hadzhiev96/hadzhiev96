@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @hadzhiev96
-- Currently Java student in A60 at Telerik Academy
-- Learning Java Web Development 
-- Interested in programming, finance and all things data!
+- Currently a Java student in A60 at Telerik Academy
+- Learning Java Web Development
+- Interested in programming, finance, and all things data!
+- Contact me at:
+  - 📧 hadzhiev96@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/finance-analysis-sql/)
