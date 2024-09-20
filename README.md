@@ -7,4 +7,4 @@
 - Interested in programming, finance, and all things data!
 - Contact me at:
   - 📧 hadzhiev96@gmail.com
-  - [linkedin](https://www.linkedin.com/in/finance-analysis-sql/)
+  - [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/finance-analysis-sql/)
