@@ -6,5 +6,5 @@
 - Pursuing a career in  Web Development 
 - Interested in programming, finance, and all things data!
 - Contact me at:
-  - Gmail --> [![My Skills](https://skillicons.dev/icons?i=gmail)](hadzhiev96@gmail.com)
+  - Gmail --> [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:hadzhiev96@gmail.com)
   - LinkedIn --> [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/finance-analysis-sql/)
