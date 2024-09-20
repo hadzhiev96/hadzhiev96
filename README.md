@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @hadzhiev96
 - Recent graduate --> Alpha Java A60 at Telerik Academy
 - My Stack(always working on expanding it!):
-  [![My Skills](https://skillicons.dev/icons?i=java,SQL,html,css)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css)](https://skillicons.dev)
 - Pursuing a career in  Web Development 
 - Interested in programming, finance, and all things data!
 - Contact me at:
