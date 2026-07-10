@@ -1,24 +1,22 @@
-# 👋 Hi, I'm Dimitar Hadzhiev (@hadzhiev96)
+Dimitar Hadzhiev
 
-Java Developer at ROITI ([https://roiti.com/](https://roiti.com/)). Passionate about building robust and scalable back-end solutions.
+Technical Data Analyst, building toward Analytics Engineer / BI Analyst roles.
 
-## 🛠️ Tech Stack
+Currently building
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,hibernate)](https://skillicons.dev)
+fintech-bi — an Embedded Finance Unit Economics Dashboard modeled on what a European card-payments processor runs internally.
 
-Proficient in:
+PostgreSQL → dbt Core → Power BI
 
-* Java (Spring Framework, Hibernate)
-* MySQL
-* ETRM (Energy Trading and Risk Management) Systems
 
-Continuously expanding my skillset and exploring new technologies.
+Star-schema warehouse, dbt transformation layer + tests, Power BI semantic model with DAX, time intelligence, RLS, and drillthrough
+Next: Airflow orchestration + Snowflake migration
 
-## 🚀 Career Goals
 
-Focused on advancing my career in Back-End Web Development, with a strong emphasis on building high-performance and maintainable applications.
+Skills
 
-## 📫 Let's Connect
+SQL, Python, Java · PostgreSQL, dbt Core · Power BI, DAX, Tabular Editor · Databricks, SAP, Salesforce · learning Airflow, Kafka, Snowflake
 
-* Email: [hadzhiev96@gmail.com](mailto:hadzhiev96@gmail.com)
-* LinkedIn: [linkedin.com/in/d-hadzhiev/](https://www.linkedin.com/in/d-hadzhiev/)
+Contact
+
+hadzhiev96@gmail.com · github.com/hadzhiev96
